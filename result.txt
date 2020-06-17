@@ -1,0 +1,5 @@
+Aim: To predict the news is fake or not, given the news and its metadata
+
+Techniques Used : Natural Language Processing(NLP), Logistic Regression, SVM, Random Forest Classifier
+
+Results: Accuracy achieved is 96.47%
